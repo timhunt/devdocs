@@ -43,3 +43,5 @@ Please check the [Translation  FAQ](https://docs.moodle.org/dev/Translation__FAQ
 - [es: Traducción](https://docs.moodle.org/es/Traducción)
 
 <!-- cspell:enable -->
+
+test
