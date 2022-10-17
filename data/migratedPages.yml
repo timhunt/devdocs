@@ -79,6 +79,9 @@ Coding:
 Coding_style:
 - filePath: "/general/development/policies/codingstyle/index.md"
   slug: "/general/development/policies/codingstyle"
+Commit_cheat_sheet:
+- filePath: "/general/development/abc/commit-comments.md"
+  slug: "/general/development/abc/commit-comments"
 Communication_Between_Components:
 - filePath: "/general/development/policies/component-communication/index.md"
   slug: "/general/development/policies/component-communication"
